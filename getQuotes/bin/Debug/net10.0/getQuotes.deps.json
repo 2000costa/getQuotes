@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "getQuotes/1.0.0": {
+        "dependencies": {
+          "Restless.Tiingo": "1.0.3"
+        },
+        "runtime": {
+          "getQuotes.dll": {}
+        }
+      },
+      "CsvHelper/33.0.1": {
+        "runtime": {
+          "lib/net8.0/CsvHelper.dll": {
+            "assemblyVersion": "33.0.0.0",
+            "fileVersion": "33.0.1.24"
+          }
+        }
+      },
+      "Restless.Tiingo/1.0.3": {
+        "dependencies": {
+          "CsvHelper": "33.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Restless.Tiingo.dll": {
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "getQuotes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CsvHelper/33.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fev4lynklAU2A9GVMLtwarkwaanjSYB4wUqO2nOJX5hnzObORzUqVLe+bDYCUyIIRQM4o5Bsq3CcyJR89iMmEQ==",
+      "path": "csvhelper/33.0.1",
+      "hashPath": "csvhelper.33.0.1.nupkg.sha512"
+    },
+    "Restless.Tiingo/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jZeNfbBgyt9zTcJn5Kzb/XydRjyfXpBoDqN8DsFuirgbn8F7wtAmqxCt1ZAN0IC9zJ68TPJZeEIWHZNbYLFRhA==",
+      "path": "restless.tiingo/1.0.3",
+      "hashPath": "restless.tiingo.1.0.3.nupkg.sha512"
+    }
+  }
+}

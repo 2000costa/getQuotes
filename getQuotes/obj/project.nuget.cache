@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yNqXGoxKkUw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mario\\source\\repos\\getQuotes\\getQuotes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mario\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\mario\\.nuget\\packages\\restless.tiingo\\1.0.3\\restless.tiingo.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
