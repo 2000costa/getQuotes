@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "getQuotes": {
-      "commandName": "Project",
-      "commandLineArgs": "googl axp bns cat gs ry"
-    }
-  }
-}
